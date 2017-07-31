@@ -17,10 +17,7 @@ If you open the project file `src/index.html` with your browser you'll see an em
 
 Now that we got the errors out of the way is time to start building our website template.
 
-<img src="http://i.imgur.com/mLE8H5k.jpg" alt="shot" style="width: 500px;"/>
-(See: [https://raw.githubusercontent.com/deskbookers/frontend-test-junior/master/template.png](here))
-
-You'll find all the images in `src/img`. Bootstrap and jQuery are already included in the html project, so you shouldn't need to add anything else.
+<a href="http://i.imgur.com/mLE8H5k.jpg">This</a> is the template. You'll find all the images in `src/img`. Bootstrap and jQuery are already included in the html project, so you shouldn't need to add anything else.
 Also make sure that the index.html file is a valid html document using the w3c-validator tool: https://validator.w3.org/#validate_by_input
 
 #### Nice to have
